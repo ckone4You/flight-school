@@ -2,7 +2,7 @@ resources:
 - name: flight-school
   type: git
   source:
-    uri: https://github.com/ckone4you/flight-school
+    uri: https://github.com/ckone4You/flight-school
     branch: master
 
 jobs:
